@@ -4,12 +4,8 @@
 
 This is a simple Weather App that allows users to search for a city and get the current weather conditions, including temperature, humidity, and wind speed. The app fetches weather data from the OpenWeatherMap API and displays relevant information in a user-friendly interface.
 
-## Features
-
-- Search for weather conditions by city name
-- Display temperature, humidity, and wind speed
-- Dynamic weather icons based on conditions (Cloudy, Rainy, Clear, etc.)
-- Error message for invalid city names
+## Live Demo
+[https://skyfinder.netlify.app]
 
 ## Technologies Used
 
@@ -17,6 +13,13 @@ This is a simple Weather App that allows users to search for a city and get the 
 - CSS
 - JavaScript
 - OpenWeatherMap API
+
+## Features
+
+- Search for weather conditions by city name
+- Display temperature, humidity, and wind speed
+- Dynamic weather icons based on conditions (Cloudy, Rainy, Clear, etc.)
+- Error message for invalid city names
 
 ## File Structure
 
